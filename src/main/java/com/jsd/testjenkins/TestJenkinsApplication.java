@@ -20,5 +20,4 @@ public class TestJenkinsApplication {
         log.info("Application Executing  ...");
         SpringApplication.run(TestJenkinsApplication.class, args);
     }
-
 }
